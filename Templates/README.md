@@ -1,4 +1,5 @@
 ## 💻 Template Preview
+- [rin](https://sunilswain.github.io/Cherry-Bloosm/rin)
 - [Cherry-Blossm](https://sunilswain.github.io/Cherry-Bloosm/)
 - [3D Theme](https://michaelbarney.github.io/LinkFree/Templates/3D%20Theme/)
 - [CasualBlue](https://michaelbarney.github.io/LinkFree/Templates/CasualBlue/)
